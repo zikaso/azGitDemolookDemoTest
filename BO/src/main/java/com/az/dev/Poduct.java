@@ -1,13 +1,21 @@
 package com.az.dev;
 
 public class Poduct {
-    private  Long id;
+
+    private Long id;
     private String name;
     private String tel;
     private String email;
 
     public Long getId() {
         return id;
+    }
+
+    public Poduct(Long id, String name, String tel, String email) {
+        this.id = id;
+        this.name = name;
+        this.tel = tel;
+        this.email = email;
     }
 
     public void setId(Long id) {

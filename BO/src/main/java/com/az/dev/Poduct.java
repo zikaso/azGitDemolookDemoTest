@@ -1,7 +1,6 @@
 package com.az.dev;
 
 public class Poduct {
-// do not ganarate any contructer for this calss please
     private Long id;
     private String name;
     private String tel;
@@ -10,7 +9,6 @@ public class Poduct {
     public Long getId() {
         return id;
     }
-
 
     public void setId(Long id) {
         this.id = id;

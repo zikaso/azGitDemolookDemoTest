@@ -11,7 +11,7 @@ public class Poduct {
     private String name;
     private String tel;
     private String email;
-
+   private String Adresse;
     public Long getId() {
         return id;
     }

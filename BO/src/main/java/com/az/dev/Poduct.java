@@ -3,7 +3,7 @@ package com.az.dev;
 import javax.xml.bind.annotation.XmlRootElement;
 
 // this is read xml file
-@XmlRootElement
+
 public class Poduct {
 
 

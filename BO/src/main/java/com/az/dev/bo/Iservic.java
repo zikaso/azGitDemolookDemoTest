@@ -5,4 +5,5 @@ public interface Iservic {
 	void  read( int id);
 	void  delete( int id);
 	void  write( int id);
+	void  insert( int id);
 }

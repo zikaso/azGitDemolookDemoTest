@@ -1,3 +1,6 @@
 # Project exclude paths
 /ui/target/
 /.idea/vcs.xml
+/bin/
+/.classpath
+/.project

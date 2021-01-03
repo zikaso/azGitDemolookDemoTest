@@ -2,5 +2,10 @@
 /ui/target/
 /.idea/vcs.xml
 /bin/
+<<<<<<< HEAD
 /.project
 /.classpath
+=======
+/.classpath
+/.project
+>>>>>>> refs/heads/Beanch-LR
